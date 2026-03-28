@@ -1,0 +1,8 @@
+{
+  "name": "BridgeAI: Universal Intent Engine",
+  "description": "A Gemini-powered bridge that transforms unstructured human input into structured, actionable data for critical systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
